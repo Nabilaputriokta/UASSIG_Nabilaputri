@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #e6ffd4ff; /* Bright brown color */
+    color: #252928;
+    margin: 0;
+    padding: 0;
+}
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+.activity-section, .slider-section {
+    padding: 50px 0;
+}
+.activity-title {
+    color: #362b35;
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+.activity-card {
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.navbar {
+    background: rgba(0, 0, 0, 0.5);
+}
+.navbar-brand, .nav-link {
+    color: #fff !important;
+}
+footer {
+    background: rgba(38, 139, 126, 0.804);
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+footer a {
+    color: #a0e9ff;
+}

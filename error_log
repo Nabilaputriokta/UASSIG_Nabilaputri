@@ -1,0 +1,22 @@
+[14-Nov-2024 02:43:52 UTC] PHP Warning:  include(pagination.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 58
+[14-Nov-2024 02:43:52 UTC] PHP Warning:  include(pagination.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 58
+[14-Nov-2024 02:43:52 UTC] PHP Warning:  include(): Failed opening 'pagination.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 58
+[14-Nov-2024 02:44:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/mialikhl/public_html/mercusuar/peduli-pantai/pagination.php on line 3
+[14-Nov-2024 02:46:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'username'@'localhost' (using password: YES) in /home/mialikhl/public_html/mercusuar/peduli-pantai/pagination.php on line 3
+[14-Nov-2024 02:49:49 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/mialikhl/public_html/mercusuar/peduli-pantai/pagination.php on line 20
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 2
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 2
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 2
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:17:26 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:18:02 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:18:02 UTC] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:18:02 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/mialikhl/public_html/mercusuar/peduli-pantai/index.php on line 13
+[14-Nov-2024 07:54:42 UTC] PHP Warning:  move_uploaded_file(uploads/1731570882_WhatsApp Image 2024-11-13 at 12.05.58 PM.jpeg): failed to open stream: No such file or directory in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 25
+[14-Nov-2024 07:54:42 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpKwUNSE' to 'uploads/1731570882_WhatsApp Image 2024-11-13 at 12.05.58 PM.jpeg' in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 25
+[14-Nov-2024 13:10:04 UTC] PHP Notice:  Undefined index: nama in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 17
+[14-Nov-2024 13:10:04 UTC] PHP Notice:  Undefined index: keterangan in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 18
+[14-Nov-2024 13:10:04 UTC] PHP Notice:  Undefined index: foto in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 21
+[14-Nov-2024 13:10:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 22
+[14-Nov-2024 13:10:04 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/mialikhl/public_html/mercusuar/peduli-pantai/report.php on line 25
